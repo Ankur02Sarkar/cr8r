@@ -25,7 +25,7 @@ export default function ContactSection() {
       <h1>Contact</h1>
       <div className="contact-container">
         <div className="about-card">
-          <h2>About Me</h2>
+          <h2>About Us</h2>
           <p>
             I am 3rd Year Student persuing B.Tech in Computer Science from VIT, Chennai. I am an enthusiastic and curious learner always trying new technologies. I come from Bikaner, Rajasthan where I completed my Higher Secondary schooling.<br /><br />
             I am passionate about Video Games and my dream is to work on a AAA Game. I like to create awe-inspiring user-experiences.<br /><br />

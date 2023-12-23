@@ -15,8 +15,8 @@ const IntroSection = () => {
                     data-aos="fade-up"
                     data-aos-delay="1000"
                 >
-                    <h1>CR8R</h1>
-                    <p>Web developer, Game designer and UI/UX enthusiast who loves to create breathtaking experiences</p>
+                    <h1 className="text-[3rem]">CR8R</h1>
+                    <p>Web Development, Video Editing and Graphics Designing</p>
                 </div>
             </div>
         </section>
