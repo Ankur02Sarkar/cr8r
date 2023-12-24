@@ -54,14 +54,14 @@ export default function ContactSection() {
           <a href="mailto:cr8r.freelance@gmail.com" className="contact-card"><FaEnvelope /></a>
           <a href="https://github.com/ankur02sarkar" className="contact-card"><FaGithub /></a>
           <a href="https://www.linkedin.com/in/ankur-sarkar/" className="contact-card"><FaLinkedin /></a>
-          <a onClick={() => copyToClipboard('+917449600707')} className="contact-card"><FaPhoneAlt /></a>
+          <a onClick={() => copyToClipboard('+917449600707')} href='tel:+917449600707' className="contact-card"><FaPhoneAlt /></a>
         </div>
       </div>
 
-      <div className="clipboard-popup" style={popup ? { transform: 'translate(-50%, 0rem)' } : null}>
+      {/* <div className="clipboard-popup" style={popup ? { transform: 'translate(-50%, 0rem)' } : null}>
         <FaRegClipboard />
         Copied to Clipboard
-      </div>
+      </div> */}
     </section>
   );
 }
