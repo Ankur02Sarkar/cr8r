@@ -56,7 +56,7 @@ const Home = () => {
       <title>CR8R</title>
       <main data-theme={isDark ? "dark" : "light"} data-scroll={projectScreen.isOpen ? "hidden" : null}>
         <IntroSection />
-        <GradientTitle text={isMobile ? <>Web<br />Gaming<br />Design</> : 'Web | Video | Design'} />
+        <GradientTitle text={isMobile ? <>Web<br />Video<br />Design</> : 'Web | Video | Design'} />
         <ToolkitSection />
         <ProjectSection setProjectScreen={setProjectScreen} />
         <ContactSection />
