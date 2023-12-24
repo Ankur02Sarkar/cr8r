@@ -5,36 +5,14 @@ const projectsData = [
         "description": "A System to Store your Certifications",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
         "coverImage": "/assets/tweet-bot-cover.png",
-        "link": "https://github.com/cr8r/COVIDSOS-TweetBot",
+        "link": "https://mar-moocs-management-system.vercel.app/",
 
         "content": [
             {
                 "paragraph": {
-                    "content": "The idea for this bot originated from the #COVIDSOS trend on Twitter. The goal was to create a bot that can help users find relevant information without going through the hassel of digging through thousands of tweets."
-                }
-
-            },
-            {
-                "paragraph": {
-                    "title": "| Auto-reply",
-                    "content": "The bot can reply to mention tweets on it's timeline. It is configured to automaticly reply to mentions with hashtags like #reply, #COVIDSOS, #covidDM, etc.\nThis module also manages enrollment of users to the Direct Messages feature, it looks for keywords like: '#coviddm start' and initiates the CovidDM module."
+                    "content": "Credential Archive is a specialized system designed to securely store and manage your certifications and credentials. It offers a user-friendly interface for uploading, organizing, and accessing various certificates, enhancing the ease of maintaining professional qualifications and educational accomplishments."
                 }
             },
-            {
-                "imagePara": {
-                    "style": 1,
-                    "title": "| CovidDM",
-                    "image": "/assets/tweet-bot-a.png",
-                    "content": "If the user is following the Bot account, they can get any information related to COVID19 directly through their personal messages. The availabe commands for DM module are:\n\n> CovidStatus: Get details of present COVID cases.\n> CovidSOS [Location] [Requirement]: Get relevant #COVIDSOS Tweets.\n> Stop: Unenroll from the CovidDM module."
-                }
-            },
-            {
-                "paragraph": {
-                    "title": "| Terminal Interface",
-                    "content": "The terminal interface is designed to be user friendly. It also has some audio output for accesibility. It contains commands to control the TweetBot like:\n\n> Custom Tweet\n> Check for unreplied tweets\n> Covid Status - Get details of present COVID cases\n> Search Tweets by hashtag\n> Search Tweets by Username\n> Search for #COVIDSOS Tweets"
-                }
-            }
-
         ]
     },
     {
@@ -43,67 +21,14 @@ const projectsData = [
         "description": "Blockchain Crowdfunding Platform",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
         "coverImage": "/assets/nano-slayer-cover.png",
-        "link": "https://github.com/cr8r/NanoSlayer-Redux",
+        "link": "https://fund--chain.vercel.app/",
 
         "content": [
             {
                 "paragraph": {
-                    "content": "This was a semester project that I made with my friends for Computer Graphics course. But just like any other game developer, I was not satisfied with the end result. So I did what any other game developer would do, is to remaster the entire game.\nSo what exactly is Nano Slayer? Well it's an 2D Action Platformer in which you have to fight through endless hoards of enemies. The idea was heighly inspired from the classic FPS Shooter DOOM."
+                    "content": "Fund Chain is a blockchain-based crowdfunding platform that provides a secure and transparent way for startups and projects to raise funds. It leverages the power of blockchain technology to ensure trust, security, and efficiency in transactions, making it an ideal solution for modern fundraising needs."
                 }
             },
-            {
-                "button": {
-                    "title": "| Play Now",
-                    "content": "Download for Windows PC / Mac / Linux",
-                    "buttonTitle": "Download - Itch.io",
-                    "buttonLink": "https://pixelbit-r.itch.io/nano-slayer",
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 1,
-                    "title": "| Player Mechanics",
-                    "image": "/assets/nano-slayer-a.png",
-                    "content": "Since this is core part of the game, it took the most time to perfect. A bad player controller can easily break immersion and break the game so I put a lot of effort to make the movement as fluid as possible. There are some special player mechanics apart from base movement: \n> Wall Sliding\n> Double Jump\n> Wall Jump"
-                }
-            },
-            {
-                "paragraph": {
-                    "title": "| Enemies and Powers",
-                    "content": "Currently there are three enemy types each with it's own behaviour and attacks so they give the player a good amount of challenge. But fret not as our protagonist has some cool gadgets and powerups in it's arsenal. I am not going to spoil all the fun so instead let's take a look at the different foes you'll be facing..."
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 0,
-                    "title": "| Jumper",
-                    "image": "/assets/nano-slayer-b.png",
-                    "content": "This is one of the more annoing ones to kill. It jumps above the player and does a massive damage by directly landing on the head."
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 1,
-                    "title": "| Atomic Crab",
-                    "image": "/assets/nano-slayer-c.png",
-                    "content": "It's the result of a radioactive experiment on a crab gone very WRONG! It shoots radioactive projectiles that explode instantly on impact. However it dosent like to be in close contact to the player."
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 0,
-                    "title": "| Robo Spider",
-                    "image": "/assets/nano-slayer-d.png",
-                    "content": "This sneaky spider has just one goal, to sneak up behind the Slayer and Go BOOM! And it is most definately not a reskined Minecraft Creeper."
-                }
-            },
-            {
-                "paragraph": {
-                    "title": "| Graphics and Art",
-                    "content": "The game assets all follow pixel-art style. It makes the task of asset creation easy and is pleasing to look at. Along with that Unity's new 2D Lights bundled with the Universal Render Pipeline gives the whole level a sense of depth. And not to forget Unity's amazing Particle System which brings the game world to life, it gives simple boring looking scenes a sence of motion.\nI also used some Pixel Art Assets made by Ansimuz (https://ansimuz.itch.io/)."
-                }
-            },
-
         ]
     },
     {
@@ -112,36 +37,14 @@ const projectsData = [
         "description": "AI Tool to help you with content creation, Music Gen, Video Gen, Image Gen",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
         "coverImage": "/assets/tweet-bot-cover.png",
-        "link": "https://github.com/cr8r/COVIDSOS-TweetBot",
+        "link": "https://nexus-2.vercel.app/",
 
         "content": [
             {
                 "paragraph": {
-                    "content": "The idea for this bot originated from the #COVIDSOS trend on Twitter. The goal was to create a bot that can help users find relevant information without going through the hassel of digging through thousands of tweets."
-                }
-
-            },
-            {
-                "paragraph": {
-                    "title": "| Auto-reply",
-                    "content": "The bot can reply to mention tweets on it's timeline. It is configured to automaticly reply to mentions with hashtags like #reply, #COVIDSOS, #covidDM, etc.\nThis module also manages enrollment of users to the Direct Messages feature, it looks for keywords like: '#coviddm start' and initiates the CovidDM module."
+                    "content": "Nexus AI is an advanced tool designed to assist with various aspects of content creation. It includes modules for music generation, video production, and image creation, utilizing AI algorithms to streamline and enhance the creative process for artists, content creators, and marketers."
                 }
             },
-            {
-                "imagePara": {
-                    "style": 1,
-                    "title": "| CovidDM",
-                    "image": "/assets/tweet-bot-a.png",
-                    "content": "If the user is following the Bot account, they can get any information related to COVID19 directly through their personal messages. The availabe commands for DM module are:\n\n> CovidStatus: Get details of present COVID cases.\n> CovidSOS [Location] [Requirement]: Get relevant #COVIDSOS Tweets.\n> Stop: Unenroll from the CovidDM module."
-                }
-            },
-            {
-                "paragraph": {
-                    "title": "| Terminal Interface",
-                    "content": "The terminal interface is designed to be user friendly. It also has some audio output for accesibility. It contains commands to control the TweetBot like:\n\n> Custom Tweet\n> Check for unreplied tweets\n> Covid Status - Get details of present COVID cases\n> Search Tweets by hashtag\n> Search Tweets by Username\n> Search for #COVIDSOS Tweets"
-                }
-            }
-
         ]
     },
     {
@@ -150,67 +53,14 @@ const projectsData = [
         "description": "AI Tool to chat with your books",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
         "coverImage": "/assets/nano-slayer-cover.png",
-        "link": "https://github.com/cr8r/NanoSlayer-Redux",
+        "link": "https://professor-gpt.vercel.app/",
 
         "content": [
             {
                 "paragraph": {
-                    "content": "This was a semester project that I made with my friends for Computer Graphics course. But just like any other game developer, I was not satisfied with the end result. So I did what any other game developer would do, is to remaster the entire game.\nSo what exactly is Nano Slayer? Well it's an 2D Action Platformer in which you have to fight through endless hoards of enemies. The idea was heighly inspired from the classic FPS Shooter DOOM."
+                    "content": "Professor GPT is an innovative AI tool that enables users to interact with their books in a conversational manner. It's designed to facilitate learning and exploration of text-based content, making it an excellent companion for students, researchers, and avid readers."
                 }
             },
-            {
-                "button": {
-                    "title": "| Play Now",
-                    "content": "Download for Windows PC / Mac / Linux",
-                    "buttonTitle": "Download - Itch.io",
-                    "buttonLink": "https://pixelbit-r.itch.io/nano-slayer",
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 1,
-                    "title": "| Player Mechanics",
-                    "image": "/assets/nano-slayer-a.png",
-                    "content": "Since this is core part of the game, it took the most time to perfect. A bad player controller can easily break immersion and break the game so I put a lot of effort to make the movement as fluid as possible. There are some special player mechanics apart from base movement: \n> Wall Sliding\n> Double Jump\n> Wall Jump"
-                }
-            },
-            {
-                "paragraph": {
-                    "title": "| Enemies and Powers",
-                    "content": "Currently there are three enemy types each with it's own behaviour and attacks so they give the player a good amount of challenge. But fret not as our protagonist has some cool gadgets and powerups in it's arsenal. I am not going to spoil all the fun so instead let's take a look at the different foes you'll be facing..."
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 0,
-                    "title": "| Jumper",
-                    "image": "/assets/nano-slayer-b.png",
-                    "content": "This is one of the more annoing ones to kill. It jumps above the player and does a massive damage by directly landing on the head."
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 1,
-                    "title": "| Atomic Crab",
-                    "image": "/assets/nano-slayer-c.png",
-                    "content": "It's the result of a radioactive experiment on a crab gone very WRONG! It shoots radioactive projectiles that explode instantly on impact. However it dosent like to be in close contact to the player."
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 0,
-                    "title": "| Robo Spider",
-                    "image": "/assets/nano-slayer-d.png",
-                    "content": "This sneaky spider has just one goal, to sneak up behind the Slayer and Go BOOM! And it is most definately not a reskined Minecraft Creeper."
-                }
-            },
-            {
-                "paragraph": {
-                    "title": "| Graphics and Art",
-                    "content": "The game assets all follow pixel-art style. It makes the task of asset creation easy and is pleasing to look at. Along with that Unity's new 2D Lights bundled with the Universal Render Pipeline gives the whole level a sense of depth. And not to forget Unity's amazing Particle System which brings the game world to life, it gives simple boring looking scenes a sence of motion.\nI also used some Pixel Art Assets made by Ansimuz (https://ansimuz.itch.io/)."
-                }
-            },
-
         ]
     },
     {
@@ -219,36 +69,14 @@ const projectsData = [
         "description": "Convert text prompts into Responsive Websites",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
         "coverImage": "/assets/tweet-bot-cover.png",
-        "link": "https://github.com/cr8r/COVIDSOS-TweetBot",
+        "link": "https://tail-magic-backend.vercel.app/",
 
         "content": [
             {
                 "paragraph": {
-                    "content": "The idea for this bot originated from the #COVIDSOS trend on Twitter. The goal was to create a bot that can help users find relevant information without going through the hassel of digging through thousands of tweets."
-                }
-
-            },
-            {
-                "paragraph": {
-                    "title": "| Auto-reply",
-                    "content": "The bot can reply to mention tweets on it's timeline. It is configured to automaticly reply to mentions with hashtags like #reply, #COVIDSOS, #covidDM, etc.\nThis module also manages enrollment of users to the Direct Messages feature, it looks for keywords like: '#coviddm start' and initiates the CovidDM module."
+                    "content": "Tail Magic is a revolutionary tool that converts text prompts into responsive websites. It simplifies the web development process by interpreting natural language instructions to create functional and aesthetically pleasing web designs, catering to both novice users and seasoned developers."
                 }
             },
-            {
-                "imagePara": {
-                    "style": 1,
-                    "title": "| CovidDM",
-                    "image": "/assets/tweet-bot-a.png",
-                    "content": "If the user is following the Bot account, they can get any information related to COVID19 directly through their personal messages. The availabe commands for DM module are:\n\n> CovidStatus: Get details of present COVID cases.\n> CovidSOS [Location] [Requirement]: Get relevant #COVIDSOS Tweets.\n> Stop: Unenroll from the CovidDM module."
-                }
-            },
-            {
-                "paragraph": {
-                    "title": "| Terminal Interface",
-                    "content": "The terminal interface is designed to be user friendly. It also has some audio output for accesibility. It contains commands to control the TweetBot like:\n\n> Custom Tweet\n> Check for unreplied tweets\n> Covid Status - Get details of present COVID cases\n> Search Tweets by hashtag\n> Search Tweets by Username\n> Search for #COVIDSOS Tweets"
-                }
-            }
-
         ]
     },
     {
@@ -257,67 +85,14 @@ const projectsData = [
         "description": "E Commerce Platform for Food",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
         "coverImage": "/assets/nano-slayer-cover.png",
-        "link": "https://github.com/cr8r/NanoSlayer-Redux",
+        "link": "https://bhojanam.vercel.app/",
 
         "content": [
             {
                 "paragraph": {
-                    "content": "This was a semester project that I made with my friends for Computer Graphics course. But just like any other game developer, I was not satisfied with the end result. So I did what any other game developer would do, is to remaster the entire game.\nSo what exactly is Nano Slayer? Well it's an 2D Action Platformer in which you have to fight through endless hoards of enemies. The idea was heighly inspired from the classic FPS Shooter DOOM."
+                    "content": "Bhojanam is a dynamic e-commerce platform specifically tailored for the food industry. It offers an intuitive interface for users to browse, order, and enjoy a wide variety of culinary delights, streamlining the connection between food vendors and customers."
                 }
             },
-            {
-                "button": {
-                    "title": "| Play Now",
-                    "content": "Download for Windows PC / Mac / Linux",
-                    "buttonTitle": "Download - Itch.io",
-                    "buttonLink": "https://pixelbit-r.itch.io/nano-slayer",
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 1,
-                    "title": "| Player Mechanics",
-                    "image": "/assets/nano-slayer-a.png",
-                    "content": "Since this is core part of the game, it took the most time to perfect. A bad player controller can easily break immersion and break the game so I put a lot of effort to make the movement as fluid as possible. There are some special player mechanics apart from base movement: \n> Wall Sliding\n> Double Jump\n> Wall Jump"
-                }
-            },
-            {
-                "paragraph": {
-                    "title": "| Enemies and Powers",
-                    "content": "Currently there are three enemy types each with it's own behaviour and attacks so they give the player a good amount of challenge. But fret not as our protagonist has some cool gadgets and powerups in it's arsenal. I am not going to spoil all the fun so instead let's take a look at the different foes you'll be facing..."
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 0,
-                    "title": "| Jumper",
-                    "image": "/assets/nano-slayer-b.png",
-                    "content": "This is one of the more annoing ones to kill. It jumps above the player and does a massive damage by directly landing on the head."
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 1,
-                    "title": "| Atomic Crab",
-                    "image": "/assets/nano-slayer-c.png",
-                    "content": "It's the result of a radioactive experiment on a crab gone very WRONG! It shoots radioactive projectiles that explode instantly on impact. However it dosent like to be in close contact to the player."
-                }
-            },
-            {
-                "imagePara": {
-                    "style": 0,
-                    "title": "| Robo Spider",
-                    "image": "/assets/nano-slayer-d.png",
-                    "content": "This sneaky spider has just one goal, to sneak up behind the Slayer and Go BOOM! And it is most definately not a reskined Minecraft Creeper."
-                }
-            },
-            {
-                "paragraph": {
-                    "title": "| Graphics and Art",
-                    "content": "The game assets all follow pixel-art style. It makes the task of asset creation easy and is pleasing to look at. Along with that Unity's new 2D Lights bundled with the Universal Render Pipeline gives the whole level a sense of depth. And not to forget Unity's amazing Particle System which brings the game world to life, it gives simple boring looking scenes a sence of motion.\nI also used some Pixel Art Assets made by Ansimuz (https://ansimuz.itch.io/)."
-                }
-            },
-
         ]
     },
 ];
