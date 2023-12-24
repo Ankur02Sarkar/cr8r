@@ -4,7 +4,7 @@ const projectsData = [
         "title": "Credential Archive",
         "description": "A System to Store your Certifications",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
-        "coverImage": "/assets/tweet-bot-cover.png",
+        "coverImage": "https://wallpapers.com/images/hd/tokyo-night-pictures-7r25z4i0nxt6ra2t.jpg",
         "link": "https://mar-moocs-management-system.vercel.app/",
 
         "content": [
@@ -20,7 +20,7 @@ const projectsData = [
         "title": "Fund Chain",
         "description": "Blockchain Crowdfunding Platform",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
-        "coverImage": "/assets/nano-slayer-cover.png",
+        "coverImage": "https://wallpapers.com/images/hd/tokyo-night-pictures-7r25z4i0nxt6ra2t.jpg",
         "link": "https://fund--chain.vercel.app/",
 
         "content": [
@@ -36,7 +36,7 @@ const projectsData = [
         "title": "Nexus AI",
         "description": "AI Tool to help you with content creation, Music Gen, Video Gen, Image Gen",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
-        "coverImage": "/assets/tweet-bot-cover.png",
+        "coverImage": "https://wallpapers.com/images/hd/tokyo-night-pictures-7r25z4i0nxt6ra2t.jpg",
         "link": "https://nexus-2.vercel.app/",
 
         "content": [
@@ -52,7 +52,7 @@ const projectsData = [
         "title": "Professor GPT",
         "description": "AI Tool to chat with your books",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
-        "coverImage": "/assets/nano-slayer-cover.png",
+        "coverImage": "https://wallpapers.com/images/hd/tokyo-night-pictures-7r25z4i0nxt6ra2t.jpg",
         "link": "https://professor-gpt.vercel.app/",
 
         "content": [
@@ -68,7 +68,7 @@ const projectsData = [
         "title": "Tail Magic",
         "description": "Convert text prompts into Responsive Websites",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
-        "coverImage": "/assets/tweet-bot-cover.png",
+        "coverImage": "https://wallpapers.com/images/hd/tokyo-night-pictures-7r25z4i0nxt6ra2t.jpg",
         "link": "https://tail-magic-backend.vercel.app/",
 
         "content": [
@@ -84,7 +84,7 @@ const projectsData = [
         "title": "Bhojanam",
         "description": "E Commerce Platform for Food",
         "cardImage": "https://i.gifer.com/Mr3W.gif",
-        "coverImage": "/assets/nano-slayer-cover.png",
+        "coverImage": "https://wallpapers.com/images/hd/tokyo-night-pictures-7r25z4i0nxt6ra2t.jpg",
         "link": "https://bhojanam.vercel.app/",
 
         "content": [
