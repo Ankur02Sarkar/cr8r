@@ -27,7 +27,7 @@ export default function ContactSection() {
         <div className="about-card">
           <h2>About Us</h2>
           <p>
-            We specialize in web development, creating dynamic and responsive websites tailored to clients' needs.
+            We specialize in web development, creating dynamic and responsive websites tailored to clients&apos; needs.
             Additionally, We offer freelance video editing services, bringing creativity and precision to visual
             content. With a versatile skill set, We seamlessly balance both aspects of our freelance work.</p>
           <div
