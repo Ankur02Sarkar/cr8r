@@ -27,31 +27,18 @@ export default function ContactSection() {
         <div className="about-card">
           <h2>About Us</h2>
           <p>
-            I am 3rd Year Student persuing B.Tech in Computer Science from VIT, Chennai. I am an enthusiastic and curious learner always trying new technologies. I come from Bikaner, Rajasthan where I completed my Higher Secondary schooling.<br /><br />
-            I am passionate about Video Games and my dream is to work on a AAA Game. I like to create awe-inspiring user-experiences.<br /><br />
-            Currently I am working as a freelance frontend developer and am the President at Game Development Club, VITC.
-          </p>
-
+            We specialize in web development, creating dynamic and responsive websites tailored to clients' needs.
+            Additionally, We offer freelance video editing services, bringing creativity and precision to visual
+            content. With a versatile skill set, We seamlessly balance both aspects of our freelance work.</p>
           <div
             className="about-card-plus"
             style={aboutPlus ? { opacity: '1', clipPath: 'circle(50rem at calc(100% - 2.5rem) calc(100% - 2.5rem))' } : null}>
-            <h2>Current Setup</h2>
+            <h2>Our Expertise</h2>
             <p>
-              <b>CPU:</b> AMD Ryzen 5 3550H<br />
-              <b>GPU:</b> GTX 1650 4GB<br />
-              <b>RAM:</b> 16GB 2400Hz<br />
-              <b>SSD:</b> 256GB NVME + 1TB<br />
-              <b>Display:</b> 120Hz 1080p<br />
-              <b>Input:</b> Logitech G102
-            </p>
-
-            <h2>Favorite Games</h2>
-            <p>
-              Red Dead Redumption 2<br />
-              God of War 2018<br />
-              Minecraft<br />
-              Grand Theft Auto V<br />
-              Tom Clancy&apos;s Splinter Cell 2002
+              <b className='text-lg'>Frontend Development : </b> 3 YOE<br />
+              <b className='text-lg'>Backend Development : </b> 1.5 YOE<br />
+              <b className='text-lg'>Video Editing : </b> 3 YOE<br />
+              <b className='text-lg'>Graphics Designing : </b> 2 YOE<br />
             </p>
           </div>
 
