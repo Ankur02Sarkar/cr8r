@@ -1,5 +1,5 @@
 import React from "react"
-
+import Typewriter from "typewriter-effect"
 const IntroSection = () => {
     return (
         <section>
@@ -16,7 +16,13 @@ const IntroSection = () => {
                     data-aos-delay="1000"
                 >
                     <h1 className="text-[3rem]">CR8R</h1>
-                    <p>Web Development, Video Editing and Graphics Designing</p>
+                    <Typewriter
+                        options={{
+                            strings: ['Web Development', 'Video Editing', "Graphics Designing"],
+                            autoStart: true,
+                            loop: true,
+                        }}
+                    />
                 </div>
             </div>
         </section>
